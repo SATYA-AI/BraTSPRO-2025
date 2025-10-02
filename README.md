@@ -1,0 +1,1 @@
+This repository contains the manuscript for the MICCAI BraTSPRO 2025 submission where we secured the 1st place in the challenge. The main objective of this challenge was to automatically predict the tumor treatment response in gliomas from longitudinal multi-sequence MR scans. If you use the methods mentioned in the paper, kindly cite our work. 
